@@ -1,2 +1,2 @@
 # Palac
-Palac Ortholinear 5x6 Split Keyboard with Aggressive Pinky Stagger
+Ortholinear 5x6 split keyboard with aggressive pinky stagger and a sixth key in the pinky column bottom row.
