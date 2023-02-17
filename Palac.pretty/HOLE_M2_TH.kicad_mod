@@ -1,0 +1,16 @@
+(footprint "HOLE_M2_TH" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (property "Sheetfile" "SofleKeyboard.kicad_sch")
+  (property "Sheetname" "")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -8.89) (layer "F.SilkS") hide
+      (effects (font (size 0.29972 0.29972) (thickness 0.07493)))
+    (tstamp 2835f74f-5419-481f-9084-ded35c2f1f94)
+  )
+  (fp_text value "HOLE" (at 0 -3.81) (layer "F.SilkS") hide
+      (effects (font (size 0.29972 0.29972) (thickness 0.07493)))
+    (tstamp 74c481bf-422a-444b-8832-4fbe9c1611d7)
+  )
+  (pad "" thru_hole circle (at 0 0 90) (size 4.4 4.4) (drill 2.2) (layers "*.Cu" "*.Mask" "Dwgs.User")
+    (clearance 0.3) (tstamp 64a1519d-f5c9-4fad-9cfc-74945313af6d))
+)
